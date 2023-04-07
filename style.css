@@ -1,0 +1,16 @@
+.textcols{
+   white-space: nowrap;
+   font-size: 0;
+}
+.textcols-item{
+   white-space: normal;
+   display: inline-block;
+   width: 30%;
+   vertical-align: top;
+   background-color: brown;
+   margin-right: 5%;
+   font-size: 14px;
+}
+.textcols-item2{
+   margin: right 0; 
+}
